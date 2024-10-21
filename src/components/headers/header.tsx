@@ -1,5 +1,3 @@
-
-
 import { Phone, Mail, Clock } from 'lucide-react'
 import { FaFacebook, FaTwitter, FaInstagram, FaLinkedin } from 'react-icons/fa6'
 export const Header = () => {
@@ -13,7 +11,7 @@ export const Header = () => {
                 </div>
                 <div className="col-span-4 lg:col-span-3 flex items-center gap-3">
                     <Mail className='h-4 w-4 lg:h-5 lg:w-5'/>
-                    <p>example@gmail.com</p>
+                    <p>na6288009@gmail.com</p>
                 </div>
                 <div className="col-span-4 lg:col-span-3 flex items-center gap-3">
                     <Clock className='h-4 w-4 lg:h-5 lg:w-5'/>
